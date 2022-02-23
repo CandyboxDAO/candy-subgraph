@@ -10,7 +10,7 @@
   "startBlock_ticketBooth": 12833319,
   "erc20s": [
     {
-      "symbol": "JBX",
+      "symbol": "CBX",
       "projectId": 1,
       "startBlock": 12833755,
       "address": "0x3abF2A4f8452cCC2CF7b4C1e4663147600646f66"

@@ -1,0 +1,19 @@
+{
+  "network": "bsc",
+  "address_projects": "0xE3672BADde62F4D3F5fef89A72a008fd1FC9cC10",
+  "startBlock_projects": 15476076,
+  "address_terminalV1": "0xfA6Dc05a3944b215016Af3Cedf69a570D4e50ab1",
+  "startBlock_terminalV1": 15476117,
+  "address_terminalV1_1": "0x4b25B03170306F2A69eB1DbbF19BF28f58eB67a3",
+  "startBlock_terminalV1_1": 15476124,
+  "address_ticketBooth": "0xFFFB3C2d3cFb43B61a04B5703692d21923f8558B",
+  "startBlock_ticketBooth": 15476099,
+  "erc20s": [
+    {
+      "symbol": "CBX",
+      "projectId": 1,
+      "address": "0x344289F69B46854356305dE561D3D8F2d5e1EBA8", 
+      "startBlock": 15480859
+    }
+  ]
+}

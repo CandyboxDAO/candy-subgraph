@@ -1,4 +1,4 @@
-# Juicebox Subgraph
+# Candybox Subgraph
 
 - Mainnet: https://thegraph.com/explorer/subgraph?id=0x63a2368f4b509438ca90186cb1c15156713d5834-0&view=Overview
 - Rinkeby: [unpublished]
@@ -27,7 +27,7 @@ First you will need to authenticate with the proper deploy key for the given net
 graph auth  --studio ${your-key}
 ```
 
-If you are deploying one of the official Juicebox subgraphs:
+If you are deploying one of the official Candybox subgraphs:
 
 ```bash
 yarn deploy:${network}
